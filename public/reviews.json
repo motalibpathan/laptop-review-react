@@ -1,0 +1,67 @@
+[
+  {
+    "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+    "name": "Leanne Graham",
+    "reviewText": "This is the best laptop deal you can get, full stop. Touchescreen? Nope. That feature is stupid in a laptop, in my view. As you use the keyboard, incidental touche s of the screen change focus or move to different screens--touchscreen is a gimmick and sucks.",
+    "img": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+    "rating": 5
+  },
+  {
+    "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+    "name": "Ervin Howell",
+    "reviewText": "A very reasonably priced laptop for basic computing needs. The specs that stick out to me for describing this as basic needs is 4GB of RAM, and 128GB M.2 SSD. Both are at the bare minimum in today's needs. Cell phones now come with those specs( high dollar ones though..).",
+
+    "img": "https://media.istockphoto.com/photos/vegetarian-pizza-with-broccoli-cherry-tomato-pepper-and-mushrooms-picture-id1297290376?b=1&k=20&m=1297290376&s=170667a&w=0&h=lwGeM5VzMWRRwJpGwGhLgoMVSDMJL5OuCYhnhCmNthc=",
+    "rating": 4
+  },
+  {
+    "id": "b357e19b-4dd9-4fc7-b5c0-9ed5255464ba",
+    "name": "Clementine Bauch",
+    "reviewText": "This looks to be a good laptop at a good price, but be aware that it does not have a UK keyboard. This means you can't type certain characters, including the pound sign £, and other characters are not where you expect them .",
+    "img": "https://media.istockphoto.com/photos/carrot-cake-with-chocolate-icing-brazilian-cake-picture-id1313708566?b=1&k=20&m=1313708566&s=170667a&w=0&h=03Gk2TvFah8PzEDgLQ0m357Wpc5NTnu9Ky7U9gncDuA=",
+    "rating": 4.5
+  },
+  {
+    "id": "e4220958-06d2-4d50-96fa-0163a563f43d",
+    "name": "Patricia Lebsack",
+    "reviewText": "I just bought this laptop and when opening the box, there is no plug or cable with this laptop. I always plug mine in as the battery does not last as long as I need it to.",
+    "img": "https://media.istockphoto.com/photos/plate-of-shrimp-fried-rice-on-a-placemat-and-wood-table-picture-id186826982?b=1&k=20&m=186826982&s=170667a&w=0&h=QChSrulu3YQ9tZSAgfWyFlU4T0Nv9cFxunnDUTzAiCA=",
+    "rating": 3.5
+  },
+  {
+    "id": "ae69f0e4-559c-4b24-8032-80b63f9b5073",
+    "name": "Robel-Corkery",
+    "reviewText": "The Acer 5 slim is sleek, beautiful, durable, lightweight, lightning fast (when upgraded to 16gb of ram), and has a ridiculously low price tag. It probably wouldn't be of much use for gaming or CAD, but for basic web browsing, office use, and video streaming, it will do well.",
+
+    "img": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTB8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.3
+  },
+  {
+    "id": "ed6a7ac3-7e67-4e3f-8461-bceb5178be42",
+    "name": "Chelsey Dietrich",
+    "reviewText": "I bought this laptop for its weight and that's about the only thing positive I can say about it. The processing power is not very strong, so performance-wise, I was not impressed. But with the pricetag considered, I'm all right with this.",
+    "img": "https://media.istockphoto.com/photos/homemade-golden-fried-chicken-picture-id500746746?b=1&k=20&m=500746746&s=170667a&w=0&h=yw9jZIBiULVMbeNWtPmNZ1TRqrdIVrX9BcJlFeRB8jg=",
+    "rating": 1.5
+  },
+  {
+    "id": "c667d3ff-41eb-4cf7-a433-819d959ea768",
+    "name": "Mrs. Dennis Schulist",
+    "reviewText": "Despite what the manufacturer has stated in the comments/Q&A, this comes with a vacant bay for a 2.5' hard drive. It also includes the necessary parts to install the 2.5' hard drive (mounting bracket, a connection/adapter, and a ribbon to connect it to the mother board).",
+    "img": "https://media.istockphoto.com/photos/traditional-moroccan-soup-harira-yellow-lentil-soup-with-cilantro-in-picture-id1324152060?b=1&k=20&m=1324152060&s=170667a&w=0&h=wfTtWb_8Q48MVpELQfcnIqrB4M21wTdAqZAMSkyXsYY=",
+    "rating": 5
+  },
+  {
+    "id": "0298e695-1f9b-49b1-9961-8a8460f95b1c",
+    "name": "Considine-Lockman",
+    "reviewText": "This laptop is a fantastic deal for the price. The laptop uses the same body as the $500+ Acer Aspire 5 models which is to say it is a fantastic body that is light and compact and very portable. Ram can easily be upgraded and adding a 2.5' SSD allows for additional memory over the 128gb included on the computer. ",
+    "img": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+    "rating": 4.5
+  },
+  {
+    "id": "6602468a-a3a8-4c2c-9d3a-fd54e2c5daf7",
+    "name": "Elwyn.Skiles",
+    "reviewText": "It came today and I plugged it in, charged, powered on and did the setup. Walked away for a bit and came back to it with a black screen. I assumed it went to sleep or the screen turned off. The power button does nothing. ",
+    "img": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 2
+  }
+]
