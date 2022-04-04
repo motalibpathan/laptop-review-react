@@ -1,14 +1,12 @@
 import React from "react";
 import useReviews from "../../hooks/useReviews";
-import Review from "../Review/Review";
+import DisplayReviews from "../DisplayReviews/DisplayReviews";
 
 const Reviews = () => {
-  const [reviews, setReviews] = useReviews();
+  const [reviews] = useReviews();
   return (
-    <div className="md:container mx-auto grid grid-cols-3 gap-10 p-5">
-      {reviews.map((review) => (
-        <Review key={review.id} review={review}></Review>
-      ))}
+    <div className="md:container mx-auto">
+      <DisplayReviews reviews={reviews}></DisplayReviews>
     </div>
   );
 };

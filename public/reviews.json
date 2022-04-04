@@ -4,7 +4,7 @@
     "name": "Leanne Graham",
     "reviewText": "This is the best laptop deal you can get, full stop. Touchescreen? Nope. That feature is stupid in a laptop, in my view. As you use the keyboard, incidental touche s of the screen change focus or move to different screens--touchscreen is a gimmick and sucks.",
     "img": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
-    "rating": 5
+    "rating": 5.1
   },
   {
     "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
@@ -12,7 +12,7 @@
     "reviewText": "A very reasonably priced laptop for basic computing needs. The specs that stick out to me for describing this as basic needs is 4GB of RAM, and 128GB M.2 SSD. Both are at the bare minimum in today's needs. Cell phones now come with those specs( high dollar ones though..).",
 
     "img": "https://media.istockphoto.com/photos/vegetarian-pizza-with-broccoli-cherry-tomato-pepper-and-mushrooms-picture-id1297290376?b=1&k=20&m=1297290376&s=170667a&w=0&h=lwGeM5VzMWRRwJpGwGhLgoMVSDMJL5OuCYhnhCmNthc=",
-    "rating": 4
+    "rating": 4.0
   },
   {
     "id": "b357e19b-4dd9-4fc7-b5c0-9ed5255464ba",
@@ -48,7 +48,7 @@
     "name": "Mrs. Dennis Schulist",
     "reviewText": "Despite what the manufacturer has stated in the comments/Q&A, this comes with a vacant bay for a 2.5' hard drive. It also includes the necessary parts to install the 2.5' hard drive (mounting bracket, a connection/adapter, and a ribbon to connect it to the mother board).",
     "img": "https://media.istockphoto.com/photos/traditional-moroccan-soup-harira-yellow-lentil-soup-with-cilantro-in-picture-id1324152060?b=1&k=20&m=1324152060&s=170667a&w=0&h=wfTtWb_8Q48MVpELQfcnIqrB4M21wTdAqZAMSkyXsYY=",
-    "rating": 5
+    "rating": 5.0
   },
   {
     "id": "0298e695-1f9b-49b1-9961-8a8460f95b1c",
@@ -62,6 +62,6 @@
     "name": "Elwyn.Skiles",
     "reviewText": "It came today and I plugged it in, charged, powered on and did the setup. Walked away for a bit and came back to it with a black screen. I assumed it went to sleep or the screen turned off. The power button does nothing. ",
     "img": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-    "rating": 2
+    "rating": 2.0
   }
 ]
