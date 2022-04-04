@@ -1,11 +1,18 @@
 import React from "react";
+import { useNavigate } from "react-router-dom";
 import useReviews from "../../hooks/useReviews";
 import Review from "../Review/Review";
 import Slider from "../Slider/Slider";
 
 const Home = () => {
   const [reviews, setReviews] = useReviews();
+  const navigate = useNavigate();
   const shownReviews = reviews.slice(0, 3);
+
+  const handleNavigate = () => {
+    navigate("/reviews");
+  };
+
   return (
     <div className="md:container mx-auto">
       <Slider></Slider>
@@ -19,7 +26,10 @@ const Home = () => {
           ))}
         </div>
         <div className="flex justify-center">
-          <button className="py-2 px-9 bg-rose-500 my-9 text-white rounded-md font-bold hover:bg-transparent hover:-translate-y-3 duration-500 border-2 border-rose-500 hover:text-rose-500">
+          <button
+            onClick={handleNavigate}
+            className="py-2 px-9 bg-rose-500 my-9 text-white rounded-md font-bold hover:bg-transparent hover:-translate-y-3 duration-500 border-2 border-rose-500 hover:text-rose-500"
+          >
             Sell All Reviews
           </button>
         </div>
