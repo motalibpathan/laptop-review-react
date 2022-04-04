@@ -16,6 +16,9 @@ const Home = () => {
   return (
     <div className="md:container mx-auto">
       <Slider></Slider>
+      <h3 className="text-3xl font-bold text-center my-5">
+        Customers Reviews ({shownReviews.length})
+      </h3>
       <DisplayReviews reviews={shownReviews}></DisplayReviews>
       <div className="flex justify-center">
         <button
