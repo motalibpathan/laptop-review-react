@@ -14,7 +14,9 @@ const Blogs = () => {
         context by calling React.createContext() and the we can access values by
         using useContext() function.
       </p>
-      <h1 className="text-2xl font-bold">Question: What is Semantic Tag</h1>
+      <h1 className="text-2xl font-bold mt-5">
+        Question: What is Semantic Tag
+      </h1>
       <p>
         Answer: HTML sematic tags are describe meanings of a tag. For example
         Header tag is used for Header of a HTML, Nav tag is for navigation
