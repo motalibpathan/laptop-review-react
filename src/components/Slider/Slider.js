@@ -5,10 +5,10 @@ const Slider = () => {
     <div className="md:flex justify-between items-center p-5 gap-5 ">
       <div className="md:w-1/2 w-full">
         <h1 className="md:text-5xl text-2xl font-bold text-rose-600 my-5">
-          Acer Aspire 3 A315-58 Core i5{" "}
+          Acer Aspire 3 Core i5{" "}
         </h1>
         <h1 className="md:text-5xl text-2xl font-bold my-2">
-          11th Gen 15.6" FHD Laptop
+          11th Gen FHD Laptop
         </h1>
         <p>
           Specifications of Acer Aspire 3 A315-58 Core i5 11th Gen 15.6" FHD

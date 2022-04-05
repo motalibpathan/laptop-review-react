@@ -1,3 +1,14 @@
+# Laptop Review
+
+## Live site link: []()
+
+### About this website
+
+- This is a simple product review website
+- This website is created with React Js Library. For displaying chart I have used 'recharts'
+- This website has been used React Router V6.
+- In Home page showing a product and some reviews, in Reviews page showing all reviews.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,5 +79,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # product-analysis-website-motalibpathan
+
 # product-analysis-website-motalibpathan

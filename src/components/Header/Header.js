@@ -1,29 +1,29 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import CustomLink from "../CustomLink/CustomLink";
 
 const Header = () => {
   return (
     <div className="bg-gray-900">
       <div className="md:container mx-auto p-5 flex justify-between items-center">
         <h1 className="text-3xl text-white font-bold">
-          <span className="text-rose-500">Acer</span> Laptop Review
+          <span className="text-rose-500">Laptop</span> Review
         </h1>
         <nav>
-          <ul className="text-white md:flex gap-7">
+          <ul className="text-white md:flex gap-7 font-bold">
             <li>
-              <Link to="/">HOME</Link>
+              <CustomLink to="/">HOME</CustomLink>
             </li>
             <li>
-              <Link to="/reviews">REVIEWS</Link>
+              <CustomLink to="/reviews">REVIEWS</CustomLink>
             </li>
             <li>
-              <Link to="/dashboard">DASHBOARD</Link>
+              <CustomLink to="/dashboard">DASHBOARD</CustomLink>
             </li>
             <li>
-              <Link to="/blogs">BLOGS</Link>
+              <CustomLink to="/blogs">BLOGS</CustomLink>
             </li>
             <li>
-              <Link to="/about">ABOUT</Link>
+              <CustomLink to="/about">ABOUT</CustomLink>
             </li>
           </ul>
         </nav>
