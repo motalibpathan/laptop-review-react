@@ -1,6 +1,6 @@
 # Laptop Review
 
-## Live site link: []()
+## Live site link: [https://laptop-review-motalibpathan.netlify.app/](https://laptop-review-motalibpathan.netlify.app/)
 
 ### About this website
 
