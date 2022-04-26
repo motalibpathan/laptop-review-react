@@ -9,6 +9,13 @@
 - This website has been used React Router V6.
 - In Home page showing a product and some reviews, in Reviews page showing all reviews.
 
+## Technology Used
+
+- React JS
+- Tailwind Css
+- React Router dom v6
+- recharts
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
